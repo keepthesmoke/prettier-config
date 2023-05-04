@@ -1,0 +1,28 @@
+{
+  "name": "@keepthesmoke/prettier-config",
+  "version": "1.0.0",
+  "description": "Shareable Prettier config for my projects",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keepthesmoke/prettier-config.git"
+  },
+  "keywords": [
+    "prettier-config",
+    "prettierrc",
+    "prettier",
+    "config",
+    "configuration",
+    "stylelint"
+  ],
+  "author": {
+    "name" : "Max Mykhalchuk",
+    "email" : "max@keepthesmoke.dev",
+    "url" : "https://keepthesmoke.dev/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keepthesmoke/prettier-config/issues"
+  },
+  "homepage": "https://github.com/keepthesmoke/prettier-config#readme"
+}
