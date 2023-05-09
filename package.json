@@ -1,7 +1,7 @@
 {
   "name": "@keepthesmoke/prettier-config",
   "version": "1.0.0",
-  "description": "Shareable Prettier config for my projects",
+  "description": "Shared Prettier config for my projects",
   "main": "index.json",
   "repository": {
     "type": "git",
