@@ -1,6 +1,6 @@
 {
   "name": "@keepthesmoke/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shared Prettier config for my projects",
   "main": "index.json",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/keepthesmoke/prettier-config.git"
   },
+  "files": [
+		"index.json"
+	],
   "keywords": [
     "prettier-config",
     "prettierrc",
