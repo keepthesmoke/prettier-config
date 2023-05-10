@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Shared Prettier config for my projects",
   "main": "index.json",
+  "scripts": {
+    "test": "exit 0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/keepthesmoke/prettier-config.git"
